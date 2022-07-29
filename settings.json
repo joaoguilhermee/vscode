@@ -1,0 +1,71 @@
+{
+  "workbench.colorTheme": "Dracula",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 15,
+  "editor.lineHeight": 25,
+  "explorer.compactFolders": false,
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.renderLineHighlight": "gutter",
+  "workbench.editor.labelFormat": "short",
+  "extensions.ignoreRecommendations": true,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "breadcrumbs.enabled": true,
+  "editor.parameterHints.enabled": false,
+  "editor.rulers": [80, 120],
+  "editor.semanticHighlighting.enabled": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "json.maxItemsComputed": 50000,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "emmet.syntaxProfiles": { "javascript": "jsx" },
+  "emmet.includeLanguages": { "javascript": "javascriptreact" },
+  "javascript.suggest.autoImports": true,
+  "typescript.suggest.autoImports": true,
+  "prettier.jsxSingleQuote": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "prettier.singleQuote": true,
+  "editor.format.defaultFormatterOptions": {
+    "prettier": {
+      "singleQuote": true
+    }
+  },
+  "window.zoomLevel": -1,
+  "editor.bracketPairColorization.enabled": true,
+  "todohighlight.keywords": [
+    "DEBUG:",
+    "//REVIEW",
+    {
+      "text": "//NOTE",
+      "color": "#ff0000",
+      "backgroundColor": "yellow",
+      "overviewRulerColor": "grey"
+    },
+    {
+      "text": "//DONE",
+      "color": "#000000",
+      "backgroundColor": "#00ff00",
+      "overviewRulerColor": "#000000"
+    },
+    {
+      "text": "BUG:",
+      "backgroundColor": "#ff0000",
+      "color": "yellow"
+    },
+    {
+      "text": "//DONT",
+      "backgroundColor": "purple",
+      "color": "yellow"
+    },
+    {
+      "text": ":BUT:",
+      "backgroundColor": "grey",
+      "color": "white"
+    }
+  ]
+}
