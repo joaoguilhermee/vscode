@@ -67,5 +67,7 @@
       "backgroundColor": "grey",
       "color": "white"
     }
-  ]
+  ],
+  "git.confirmSync": true,
+  "npm.keybindingsChangedWarningShown": true,
 }

@@ -4,7 +4,6 @@ code --install-extension donjayamanne.githistory
 code --install-extension dracula-theme.theme-dracula
 code --install-extension EditorConfig.EditorConfig
 code --install-extension eg2.vscode-npm-script
-code --install-extension esbenp.prettier-vscode
 code --install-extension firsttris.vscode-jest-runner
 code --install-extension GitHub.copilot
 code --install-extension ms-azuretools.vscode-docker
@@ -19,3 +18,4 @@ code --install-extension styled-components.vscode-styled-components
 code --install-extension toba.vsfire
 code --install-extension waderyan.gitblame
 code --install-extension wayou.vscode-todo-highlight
+code --install-extension johnpapa.vscode-peacock
